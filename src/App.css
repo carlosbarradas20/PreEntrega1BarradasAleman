@@ -1,3 +1,11 @@
 img {
   height: 24px;
 }
+span {
+  padding-left: 0.5rem;
+  color: rgb(52, 47, 206);
+}
+.itemCount span {
+ color: black;
+ padding: 1rem;
+}

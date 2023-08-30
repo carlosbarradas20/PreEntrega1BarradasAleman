@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "name": "Bulova Skeleton",
+        "avatar":"https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Sites-palacio-master-catalog/default/dw4ffff058/images/39633949/large/39633949_x1.jpg?sw=686&sh=785",
+        "category": "clasicos",
+        "precio": 4000
+    },
+    {
+        "id": "2",
+        "name": "Hamilton Skeleton",
+        "avatar":"https://www.hamiltonwatch.com/media/catalog/product/h/4/h42555751.png",
+        "category": "clasicos",
+        "precio": 7000
+
+    },
+    {
+        "id": "3",
+        "name": "Mido Skeleton",
+        "avatar":"https://www.midowatches.com/media/catalog/product/M/0/M038.436.11.061.00_0_front_1_1.png?im=Resize=(1200,1200),aspect=fill;Crop=(0,0,1200,1200),gravity=Center",
+        "category": "clasicos",
+        "precio": 5500   
+    },
+    {
+        "id": "4",
+        "name": "Walory Reloj Digital",
+        "avatar":"https://m.media-amazon.com/images/I/6139OLlgqEL.jpg",
+        "category": "deportivos",
+        "precio": 3500
+
+    },
+    {
+        "id": "5",
+        "name": "TISSOT T-RACE ",
+        "avatar":"https://www.tissotwatches.com/media/catalog/product/T/1/T135.417.37.051.05_R.png?im=Resize=(1200,1200)",
+        "category": "deportivos",
+        "precio": 8000
+    },
+    {
+        "id": "6",
+        "name": "Fossil Q - Reloj Inteligente",
+        "avatar":"https://m.media-amazon.com/images/I/71tc0IQKJGL._AC_SX679_.jpg",
+        "category": "deportivos",
+        "precio": 5500
+    },
+    {
+        "id": "7",
+        "name": "Calvin Klein Infinite Too Automati",
+        "avatar":"https://media.gq.com.mx/photos/5e576cf79f7827000899f9ff/master/w_1600%2Cc_limit/Calvin-Klein-Infinite-too-Automatik-Edelstahl-silber-Metallband.jpg",
+        "category": "Moderno y Minimalista",
+        "precio": 8500
+    },
+    {
+        "id": "8",
+        "name": "Invicta Pro Diver",
+        "avatar":"https://images-eu.ssl-images-amazon.com/images/I/81Vdb%2BbDtlL.jpg",
+        "category": "Moderno y Minimalista",
+        "precio": 5500
+    },
+    {
+        "id": "9",
+        "name": "Bulova Curv Reloj cronógrafo",
+        "avatar":"https://images-eu.ssl-images-amazon.com/images/I/81X7ojlk9pL.jpg",
+        "category": "Moderno y Minimalista",
+        "precio":9500
+    }
+]
