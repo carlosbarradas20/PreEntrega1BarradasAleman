@@ -4,6 +4,7 @@
         "name": "Bulova Skeleton",
         "avatar":"https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Sites-palacio-master-catalog/default/dw4ffff058/images/39633949/large/39633949_x1.jpg?sw=686&sh=785",
         "category": "clasicos",
+        "stock":"10",
         "precio": 4000
     },
     {
@@ -11,6 +12,7 @@
         "name": "Hamilton Skeleton",
         "avatar":"https://www.hamiltonwatch.com/media/catalog/product/h/4/h42555751.png",
         "category": "clasicos",
+        "stock":"10",
         "precio": 7000
 
     },
@@ -19,6 +21,7 @@
         "name": "Mido Skeleton",
         "avatar":"https://www.midowatches.com/media/catalog/product/M/0/M038.436.11.061.00_0_front_1_1.png?im=Resize=(1200,1200),aspect=fill;Crop=(0,0,1200,1200),gravity=Center",
         "category": "clasicos",
+        "stock":"10",
         "precio": 5500   
     },
     {
@@ -26,6 +29,7 @@
         "name": "Walory Reloj Digital",
         "avatar":"https://m.media-amazon.com/images/I/6139OLlgqEL.jpg",
         "category": "deportivos",
+        "stock":"10",
         "precio": 3500
 
     },
@@ -34,6 +38,7 @@
         "name": "TISSOT T-RACE ",
         "avatar":"https://www.tissotwatches.com/media/catalog/product/T/1/T135.417.37.051.05_R.png?im=Resize=(1200,1200)",
         "category": "deportivos",
+        "stock":"10",
         "precio": 8000
     },
     {
@@ -41,6 +46,7 @@
         "name": "Fossil Q - Reloj Inteligente",
         "avatar":"https://m.media-amazon.com/images/I/71tc0IQKJGL._AC_SX679_.jpg",
         "category": "deportivos",
+        "stock":"10",
         "precio": 5500
     },
     {
@@ -48,20 +54,23 @@
         "name": "Calvin Klein Infinite Too Automati",
         "avatar":"https://media.gq.com.mx/photos/5e576cf79f7827000899f9ff/master/w_1600%2Cc_limit/Calvin-Klein-Infinite-too-Automatik-Edelstahl-silber-Metallband.jpg",
         "category": "Moderno y Minimalista",
+        "stock":"10",
         "precio": 8500
     },
     {
         "id": "8",
         "name": "Invicta Pro Diver",
-        "avatar":"https://images-eu.ssl-images-amazon.com/images/I/81Vdb%2BbDtlL.jpg",
+        "avatar":"data:image/jpeg;base64,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",
         "category": "Moderno y Minimalista",
+        "stock":"10",
         "precio": 5500
     },
     {
         "id": "9",
         "name": "Bulova Curv Reloj cronógrafo",
-        "avatar":"https://images-eu.ssl-images-amazon.com/images/I/81X7ojlk9pL.jpg",
+        "avatar":"https://cristaljoyas.com/media/catalog/product/cache/image/700x560/e9c3970ab036de70892d86c6d221abfe/b/u/bu398a157.jpg",
         "category": "Moderno y Minimalista",
+        "stock":"10",
         "precio":9500
     }
 ]
