@@ -50,7 +50,7 @@ export const Cart = () => {
 
   return (
     <Container>
-      <h1>Cart</h1>
+      <h1>Carrito</h1>
       <Table striped bordered hover variant="dark">
         <thead>
           <tr>
